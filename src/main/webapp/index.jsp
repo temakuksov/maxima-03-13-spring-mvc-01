@@ -6,7 +6,7 @@
 <body>
 <h2>This is default page!</h2>
 <hr>
-<a href="calc/calculator?a=4&b=3&op=sum" title="по ссылке пример: вычисление 4+3">Примитивный калькулятор (4+3)</a>
+<a href="calc/calculator?a=4&b=3&op=sum" title="example: calculate 4+3">Simple Calculator (4+3)</a>
 <hr>
 </body>
 </html>
