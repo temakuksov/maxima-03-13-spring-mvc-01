@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta http-equiv='Content-Type' content='text/html; charset=UTF-8' />
-    <title>Привет мир</title>
+    <title>Hello World!</title>
 </head>
 <body>
 <h2>This is default page!</h2>
